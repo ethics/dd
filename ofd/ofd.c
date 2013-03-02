@@ -17,7 +17,7 @@ static void __exit ofd_exit(void) /*Destructor*/
 module_init(ofd_init);
 module_exit(ofd_exit);
 
-MODULE_LICENSR("GPL");
+MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Siva KUmar");
 MODULE_DESCRIPTION("Our First Driver");
 
